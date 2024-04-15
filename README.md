@@ -33,15 +33,15 @@ Welcome to our Modern Login Page project! This interactive login form is designe
 
 ## Usage
 
-To integrate the login page into your website or web application, simply include the provided HTML, CSS, and JavaScript files in your project directory. Customize the form's styling and functionality as needed to align with your project's requirements and branding. Deploy the login page on your website to enable users to authenticate securely and access your platform with ease.
+To integrate the login page into your website or web application, simply include the provided HTML, CSS, and JavaScript files in your project directory. Customize the form's styling and functionality to align with your project's requirements and branding. Deploy the login page on your website to enable users to authenticate securely and easily access your platform.
 
 ## Contributing
 
-Contributions to the Modern Login Page project are welcome! If you encounter any bugs, have suggestions for improvements, or wish to contribute new features, please feel free to open an issue or submit a pull request. Your contributions play a vital role in enhancing the login page's functionality and usability for users worldwide.
+Contributions to the Modern Login Page project are welcome! If you encounter any bugs, have suggestions for improvements, or wish to contribute new features, please feel free to open an issue or submit a pull request. Your contributions are vital in enhancing the login page's functionality and usability for users worldwide.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), allowing for free and open use, modification, and distribution. By contributing to this project, you agree to abide by the terms and conditions outlined in the license, fostering a collaborative and inclusive open-source community.
+This project is licensed under the [MIT License](LICENSE), allowing for free and open use, modification, and distribution. By contributing to this project, you agree to abide by the terms and conditions outlined in the license, fostering a collaborative and inclusive open-source community. The project was designed and developed by Md. MutasimBillah CEO of Glorysoftbd name chenged from CodeFollowers.
 
 ## Get Started
 
